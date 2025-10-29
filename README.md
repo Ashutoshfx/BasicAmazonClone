@@ -1,4 +1,4 @@
 # BasicAmazonClone
 First web project .
 <br>
-Author: Ashutosh
+Author: Ashutosh Singh
